@@ -3,6 +3,7 @@
 Split bills with flatmates. Plain HTML, CSS and JavaScript on top of Supabase. No build step.
 
 ## Files
+
 | File | What it does |
 |---|---|
 | `index.html` | Page shell. Loads the Supabase and QR libraries, then `config.js` and `app.js`. |
